@@ -6,19 +6,16 @@ This project is an attempt to create a simple 3D Game Engine for learning purpos
 
 The project allow to create simple scene made of loaded 3D object that can be animated. 
 
-We can apply material to these objects. Materials are made of textures and support normal mapping and displacement mapping for an enhanced 3D effect.  
-_Example of material with normal map and displacement map :_
+We can apply material to these objects. Materials are made of textures and support normal mapping and displacement mapping for an enhanced 3D effect. See example of material with normal map and displacement map :
 ![](docs/ExampleNormalDispMap.png)
 
-The engine support various type of light such as directional, point and spot.  
-_Example of spot light :_
+The engine support various type of light such as directional, point and spot. See example of spot light :
 ![](docs/ExampleSpotLight.png)
 
-The engine support simple shadow maps.  
-_Example of shadow :_
+The engine support simple shadow maps. See example of shadow :
 ![](docs/ExampleShadow.png)
 
-Quick demonstration:
+Quick demonstration :  
 ![](docs/demo.gif)
 
 ## Dependencies
