@@ -1,12 +1,12 @@
 # 3D Game Engine
 
-This project is an attempt to create a simple 3D Game Engine for learning purposes. My goal is to gain an understanding how to render in real time 3D object with different light effects. 
+This project is an attempt to create a simple 3D Game Engine for learning purposes. My goal is to gain an understanding on how to render in real time 3D object with different light effects. 
 
 ## Presentation
 
-The project allow to create simple scene made of loaded 3D object that can be animated. 
+The project supports the creation of simple scene made of loaded 3D objects that can be animated. 
 
-We can apply material to these objects. Materials are made of textures and support normal mapping and displacement mapping for an enhanced 3D effect. See example of material with normal map and displacement map :
+We can apply materials to these objects. Materials are made of textures and support normal mapping and displacement mapping for an enhanced 3D effect. See example of material with normal map and displacement map :
 ![](docs/ExampleNormalDispMap.png)
 
 The engine support various type of light such as directional, point and spot. See example of spot light :
